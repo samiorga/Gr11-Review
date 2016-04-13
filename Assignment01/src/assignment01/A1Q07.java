@@ -8,9 +8,9 @@ package assignment01;
  *
  * @author samiorga
  */
-public class A1A4 {
-
-    public static void main(String[] args) {
+public class A1Q07 {
     
+    public static void main(String[] args) {
+        
     }
 }

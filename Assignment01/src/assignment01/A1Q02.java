@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author iorgs3184
  */
-public class A1Q2 {
+public class A1Q02 {
 
     public static void main(String[] args) {
 
